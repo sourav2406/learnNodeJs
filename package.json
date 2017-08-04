@@ -1,0 +1,22 @@
+{
+  "name": "learnnodejs",
+  "version": "1.0.0",
+  "description": "leaning Node JS",
+  "main": "callback.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sourav2406/learnNodeJs.git"
+  },
+  "author": "Sourav",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sourav2406/learnNodeJs/issues"
+  },
+  "homepage": "https://github.com/sourav2406/learnNodeJs#readme",
+  "devDependencies": {
+    "chalk": "^2.0.1"
+  }
+}
